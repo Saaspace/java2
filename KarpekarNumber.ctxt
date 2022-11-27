@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KarpekarNumber
+comment1.params=
+comment1.target=void\ input()
+comment2.params=n
+comment2.target=long\ check(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
