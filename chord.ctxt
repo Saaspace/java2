@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=chord
+comment1.params=
+comment1.target=chord()
+comment2.params=
+comment2.target=void\ fnInput()
+comment3.params=cd\ l
+comment3.target=boolean\ isvalid(java.lang.String,\ int)
+comment4.params=w
+comment4.target=int\ fnVowel(java.lang.String)
+comment5.params=cd\ l
+comment5.target=void\ fnOperate(java.lang.String,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

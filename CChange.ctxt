@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CChange
+comment1.params=
+comment1.target=CChange()
+comment2.params=
+comment2.target=void\ inputword()
+comment3.params=ch
+comment3.target=char\ caseconvert(char)
+comment4.params=len
+comment4.target=void\ rechange(int)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
