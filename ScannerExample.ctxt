@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ScannerExample
+comment0.text=\r\n\r\n\ Java\ program\ to\ read\ file\ using\ Scanner\ class\ in\ Java.\r\n\ java.util.Scanner\ is\ added\ on\ Java\ 5\ and\ offer\ convenient\ method\ to\ read\ data\r\n\r\n\ @author\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
